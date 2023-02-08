@@ -4,7 +4,7 @@
 
 ### Contexto
 
-Este projeto busca analisar os dados referentes √†s vendas de uma pizzaria no ano de 2015, buscando identificar caracter√≠sticas importantes sobre 
+Este projeto busca analisar os dados referentes √†s vendas de uma pizzaria no ano de 2015, buscando identificar caracter√≠ticas importantes sobre 
 os clientes, tend√™ncias para o neg√≥cio, oportunidades de melhorias e riscos.
 
 Os dados foram obtidos do dataset dispon√≠vel no [Kaggle](https://www.kaggle.com/datasets/ylenialongo/pizza-sales).
@@ -13,51 +13,51 @@ A apresenta√ß√£o pode ser acompanhada no [Tableau Public](https://public.tableau
 
 ### An√°lise
 
-![image](/pizza-sales/Pictures/2 - P√°g 1.jpg)
+![Pictures/2 - P√°g 1.jpg](https://raw.githubusercontent.com/lucas-a-correa/pizza-sales/main/Pictures/2%20-%20P%C3%A1g%201.jpg)
 
-Iniciamos nossa an·lise verificando o volume de vendas ao decorrer do ano. Podemos perceber que o volume de vendas apresenta uma alta variaÁ„o de dia 
-para dia, mas, no geral, mantÍm-se constante, com 50% dos dias analisados apresentando um valor entre US$ 2.047,00 e US$ 2.463,00.
-N„o observamos nenhum padr„o especÌfico ou tendÍncias, com os poucos dias que apresentam valores extremos (Acima de US$ 3.000,00 ou abaixo de US$ 1.500,00)
-provavelmente sendo causados por feriados ou eventos com maiores motivos para que as pessoas peÁam comida - nos casos de valores altos - ou dias com baixa
-movimentaÁ„o.
+Iniciamos nossa an√°lise verificando o volume de vendas ao decorrer do ano. Podemos perceber que o volume de vendas apresenta uma alta varia√ß√£o de dia 
+para dia, mas, no geral, mant√™m-se constante, com 50% dos dias analisados apresentando um valor entre US$ 2.047,00 e US$ 2.463,00.
+N√£o observamos nenhum padr√£o espec√≠fico ou tend√™ncias, com os poucos dias que apresentam valores extremos (Acima de US$ 3.000,00 ou abaixo de US$ 1.500,00)
+provavelmente sendo causados por feriados ou eventos com maiores motivos para que as pessoas pe√ßam comida - nos casos de valores altos - ou dias com baixa
+movimenta√ß√£o.
 
-![image](/pizza-sales/Pictures/3 - P√°g 2.jpg)
+![/pizza-sales/Pictures/3 - P√É¬°g 2.jpg](https://raw.githubusercontent.com/lucas-a-correa/pizza-sales/main/Pictures/3%20-%20P%C3%A1g%202.jpg)
 
-Em seguida, analisamos o volume de vendas por dia da semana. Observamos os maiores valores entre quinta e s·bado, com uma diferenÁa de 26,8% entre o dia
-com menor movimento - domingo - e o dia de maior movimentaÁ„o - sexta.
+Em seguida, analisamos o volume de vendas por dia da semana. Observamos os maiores valores entre quinta e s√°bado, com uma diferen√ßa de 26,8% entre o dia
+com menor movimento - domingo - e o dia de maior movimenta√ß√£o - sexta.
 Esses dados podem ser utilizados para orientar a escala de profissionais na empresa, de acordo com a demanda.
 
-![image](/pizza-sales/Pictures/4 - P√°g 3.jpg)
+![image](https://raw.githubusercontent.com/lucas-a-correa/pizza-sales/main/Pictures/4%20-%20P%C3%A1g%203.jpg)
 
-Observamos, ainda, a movimentaÁ„o de acordo com a hora do dia, verificando um pico no hor·rio de almoÁo - por volta de 12h - e outro, menor, no hor·rio
+Observamos, ainda, a movimenta√ß√£o de acordo com a hora do dia, verificando um pico no hor√°rio de almo√ßo - por volta de 12h - e outro, menor, no hor√°rio
 de janta - por volta de 18h.
-Da mesma forma, esses dados devem ser utilizados para orientar os hor·rios de trabalho dos funcion·rios, a fim de atender as maiores demandas.
+Da mesma forma, esses dados devem ser utilizados para orientar os hor√°rios de trabalho dos funcion√°rios, a fim de atender as maiores demandas.
 
-![image](/pizza-sales/Pictures/5 - P√°g 4.jpg)
+![image](https://raw.githubusercontent.com/lucas-a-correa/pizza-sales/main/Pictures/5%20-%20P%C3%A1g%204.jpg)
 
-Quanto aos tipos de pizza disponÌveis, observamos uma boa distribuiÁ„o, com cada uma das categorias apresentando volumes de vendas parecidos, com
-uma leve vantagem para as pizzas cl·ssicas. Mas, observando a distribuiÁ„o de sabores mais pedidos, verificamos uma concentraÁ„o maior, com os 6 sabores
-mais pedidos acumulando 29% do total de pedidos, e os 10 primeiros acumulando 44%, de um total de 32 sabores disponÌveis.
+Quanto aos tipos de pizza dispon√≠veis, observamos uma boa distribui√ß√£o, com cada uma das categorias apresentando volumes de vendas parecidos, com
+uma leve vantagem para as pizzas cl√°ssicas. Mas, observando a distribui√ß√£o de sabores mais pedidos, verificamos uma concentra√ß√£o maior, com os 6 sabores
+mais pedidos acumulando 29% do total de pedidos, e os 10 primeiros acumulando 44%, de um total de 32 sabores dispon√≠veis.
 
-![image](/pizza-sales/Pictures/6 - P√°g 5.jpg)
+![image](https://raw.githubusercontent.com/lucas-a-correa/pizza-sales/main/Pictures/6%20-%20P%C3%A1g%205.jpg)
 
-Na an·lise dos tamanhos, observamos uma clara concentraÁ„o de pedidos no tamanho FamÌlia - 45,8% - seguido pelo tamanho MÈdio - 30,6% - e pelo tamanho Broto - 21,7%.
-J· os tamanhos Gigante e Super Gigante, juntos, acumulam somente 2% dos pedidos.
+Na an√°lise dos tamanhos, observamos uma clara concentra√ß√£o de pedidos no tamanho Fam√≠lia - 45,8% - seguido pelo tamanho M√©dio - 30,6% - e pelo tamanho Broto - 21,7%.
+J√° os tamanhos Gigante e Super Gigante, juntos, acumulam somente 2% dos pedidos.
 
-![image](/pizza-sales/Pictures/7 - P√°g 6.jpg)
+![image](https://raw.githubusercontent.com/lucas-a-correa/pizza-sales/main/Pictures/7%20-%20P%C3%A1g%206.jpg)
  
-Por fim, analisamos os ingredientes utilizados nas pizzas, bem como suas quantidades. Verificamos que alguns ingredientes s„o claramente mais prevalentes
+Por fim, analisamos os ingredientes utilizados nas pizzas, bem como suas quantidades. Verificamos que alguns ingredientes s√£o claramente mais prevalentes
 do que outros, com os 5 ingredientes mais utilizados acumulando 37,6% das quantidades, e os 10 mais utilizados acumulando 54,7%, dentre o total de 65.
-Essa diferenÁa indica a import‚ncia desses ingredientes para a manutenÁ„o da produÁ„o.
+Essa diferen√ßa indica a import√¢ncia desses ingredientes para a manuten√ß√£o da produ√ß√£o.
  
-### Conclus„o
+### Conclus√£o
 
-Com base na an·lise dos dados, chegamos a algumas conclusıes e sugestıes para o negÛcio:
+Com base na an√°lise dos dados, chegamos a algumas conclus√µes e sugest√µes para o neg√≥cio:
 
-- A empresa n„o se encontra em crescimento nem em queda, apresentando um comportamento est·vel ao longo do ano;
-- Entretanto, È importante que a empresa busque estratÈgias visando o crescimento das vendas, para que uma possÌvel crise futura n„o cause a quebra da mesma;
-- Os dados nos mostram os perÌodos em que a demanda È maior, e a empresa deve utilizar esse conhecimento para focar os recursos, evitar desperdÌcios e aumentar as economias;
-- Um exemplo do direcionamento indicado acima È a concentraÁ„o dos funcion·rios presentes na empresa nos hor·rios de pico, e um quadro reduzido nos demais perÌodos;
-- Uma estratÈgia que pode ser adotada È o marketing direcionado para o aumento da venda de tamanhos de pizza mais lucrativos, adotando preÁos que influenciem a escolha dos consumidores, sempre baseados nos custos, que devem ser levantados pela empresa; 
-- Destaca-se, ainda, a import‚ncia de um planejamento logÌstico e de suprimentos para a aquisiÁ„o dos ingredientes mais utilizados, buscando-se fornecedores confi·veis e custos mais competitivos para manter a produÁ„o.
+- A empresa n√£o se encontra em crescimento nem em queda, apresentando um comportamento est√°vel ao longo do ano;
+- Entretanto, √© importante que a empresa busque estrat√©gias visando o crescimento das vendas, para que uma poss√≠vel crise futura n√£o cause a quebra da mesma;
+- Os dados nos mostram os per√≠odos em que a demanda √© maior, e a empresa deve utilizar esse conhecimento para focar os recursos, evitar desperd√≠cios e aumentar as economias;
+- Um exemplo do direcionamento indicado acima √© a concentra√ß√£o dos funcion√°rios presentes na empresa nos hor√°rios de pico, e um quadro reduzido nos demais per√≠odos;
+- Uma estrat√©gia que pode ser adotada √© o marketing direcionado para o aumento da venda de tamanhos de pizza mais lucrativos, adotando pre√ßos que influenciem a escolha dos consumidores, sempre baseados nos custos, que devem ser levantados pela empresa; 
+- Destaca-se, ainda, a import√¢ncia de um planejamento log√≠stico e de suprimentos para a aquisi√ß√£o dos ingredientes mais utilizados, buscando-se fornecedores confi√°veis e custos mais competitivos para manter a produ√ß√£o.
  
